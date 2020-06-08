@@ -22,8 +22,7 @@ $ python sample.py 100
 
 Training loss/accuracy is stored in `training_log.csv`.
 
-###char_to_idx.json File
-
+char_to_idx.json File --
 This file stores a dictionary which maps every character found in the datasets to a particular number.
 
 
