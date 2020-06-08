@@ -1,11 +1,12 @@
 # char-rnn-keras
 
 Multi-layer recurrent neural networks for training and sampling from texts, inspired by [karpathy/char-rnn](https://github.com/karpathy/char-rnn).
+<br>
+Here char RNN has been used to generate music.
 
 ### Requirements
 
-This code is written in Python 2, and it requires the [Keras](https://keras.io) deep learning library.<b>
-Here char RNN has been used to generate music.
+This code is written in Python 2, and it requires the [Keras](https://keras.io) deep learning library.
 
 ### Usage
 
