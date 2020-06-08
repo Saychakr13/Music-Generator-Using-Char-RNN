@@ -4,7 +4,8 @@ Multi-layer recurrent neural networks for training and sampling from texts, insp
 
 ### Requirements
 
-This code is written in Python 2, and it requires the [Keras](https://keras.io) deep learning library.
+This code is written in Python 2, and it requires the [Keras](https://keras.io) deep learning library.<b>
+Here char RNN has been used to generate music.
 
 ### Usage
 
